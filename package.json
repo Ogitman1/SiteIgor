@@ -1,0 +1,19 @@
+{
+  "name": "siteigor",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Ogitman1/SiteIgor"
+  },
+  "dependencies": {
+    "yarn": "^1.22.21",
+    "yarn.lock": "^0.0.1-security"
+  }
+}
